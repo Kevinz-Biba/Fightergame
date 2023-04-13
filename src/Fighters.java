@@ -95,8 +95,11 @@ public class Fighters {
 
                 } while (goodmove == false);
                 
-                scan.close();
+
             }
         }
+        
+        scan.close();
+        
     }
 }
